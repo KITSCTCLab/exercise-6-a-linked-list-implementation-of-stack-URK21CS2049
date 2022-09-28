@@ -26,7 +26,6 @@ class Stack:
       print(temp.data, end = "=>")
       
     print("None")
-
 # Do not change the following code
 stack = Stack()
 operations = []
